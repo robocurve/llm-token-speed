@@ -1,0 +1,1885 @@
+[
+ {
+  "name": "Llama 3.1 Instruct 405B",
+  "date": "2024-07-23",
+  "ii": 8.3,
+  "spd": 28.84,
+  "backfilled": true
+ },
+ {
+  "name": "Llama 3.2 Instruct 90B (Vision)",
+  "date": "2024-09-25",
+  "ii": 6,
+  "spd": 39.83,
+  "backfilled": true
+ },
+ {
+  "name": "Nova 2.0 Omni (low)",
+  "date": "2025-11-26",
+  "ii": 16.7,
+  "spd": 184.9,
+  "backfilled": true
+ },
+ {
+  "name": "Nova 2.0 Omni (Non-reasoning)",
+  "date": "2025-11-26",
+  "ii": 10.4,
+  "spd": 184.9,
+  "backfilled": true
+ },
+ {
+  "name": "Nova 2.0 Omni (medium)",
+  "date": "2025-11-26",
+  "ii": 21.3,
+  "spd": 184.9,
+  "backfilled": true
+ },
+ {
+  "name": "Olmo 3 7B Instruct",
+  "date": "2025-11-20",
+  "ii": 2.4,
+  "spd": 34.93,
+  "backfilled": true
+ },
+ {
+  "name": "Olmo 3.1 32B Think",
+  "date": "2025-12-12",
+  "ii": 7.9,
+  "spd": 44.86,
+  "backfilled": true
+ },
+ {
+  "name": "Olmo 3 7B Think",
+  "date": "2025-11-20",
+  "ii": 3.6,
+  "spd": 107.535,
+  "backfilled": true
+ },
+ {
+  "name": "EXAONE 4.0 32B (Non-reasoning)",
+  "date": "2025-07-15",
+  "ii": 5.7,
+  "spd": 77.52,
+  "backfilled": true
+ },
+ {
+  "name": "EXAONE 4.0 32B (Reasoning)",
+  "date": "2025-07-15",
+  "ii": 10.5,
+  "spd": 85.4,
+  "backfilled": true
+ },
+ {
+  "name": "MiMo-V2-Flash (Non-reasoning)",
+  "date": "2025-12-16",
+  "ii": 25.1,
+  "spd": 114.58,
+  "backfilled": true
+ },
+ {
+  "name": "ERNIE 4.5 300B A47B",
+  "date": "2025-06-30",
+  "ii": 8.9,
+  "spd": 25.84,
+  "backfilled": true
+ },
+ {
+  "name": "Apriel-v1.6-15B-Thinker",
+  "date": "2025-11-25",
+  "ii": 20.8,
+  "spd": 147.73,
+  "backfilled": true
+ },
+ {
+  "name": "Jamba 1.7 Large",
+  "date": "2025-07-07",
+  "ii": 5,
+  "spd": 45.05,
+  "backfilled": true
+ },
+ {
+  "name": "Jamba 1.7 Mini",
+  "date": "2025-07-07",
+  "ii": 2.3,
+  "spd": 152.03,
+  "backfilled": true
+ },
+ {
+  "name": "Ring-flash-2.0",
+  "date": "2025-09-19",
+  "ii": 8,
+  "spd": 76.11,
+  "backfilled": true
+ },
+ {
+  "name": "o1",
+  "date": "2024-12-05",
+  "ii": 23.9,
+  "spd": 71.62,
+  "backfilled": true
+ },
+ {
+  "name": "o1-preview",
+  "date": "2024-09-12",
+  "ii": 17.2,
+  "spd": 29.95,
+  "backfilled": true
+ },
+ {
+  "name": "o1-mini",
+  "date": "2024-09-12",
+  "ii": 14,
+  "spd": 69.77,
+  "backfilled": true
+ },
+ {
+  "name": "GPT-4o (Aug '24)",
+  "date": "2024-08-06",
+  "ii": 9.4,
+  "spd": 105.62,
+  "backfilled": true
+ },
+ {
+  "name": "GPT-4o (May '24)",
+  "date": "2024-05-13",
+  "ii": 8.4,
+  "spd": 84.29,
+  "backfilled": true
+ },
+ {
+  "name": "GPT-4 Turbo",
+  "date": "2023-11-06",
+  "ii": 7.7,
+  "spd": 16.37,
+  "backfilled": true
+ },
+ {
+  "name": "GPT-4o (Nov '24)",
+  "date": "2024-11-20",
+  "ii": 11.1,
+  "spd": 116.08,
+  "backfilled": true
+ },
+ {
+  "name": "GPT-4o mini",
+  "date": "2024-07-18",
+  "ii": 6.7,
+  "spd": 124.73,
+  "backfilled": true
+ },
+ {
+  "name": "GPT-3.5 Turbo",
+  "date": "2022-11-30",
+  "ii": 3.2,
+  "spd": 83.15,
+  "backfilled": true
+ },
+ {
+  "name": "GPT-5 nano (minimal)",
+  "date": "2025-08-07",
+  "ii": 7.8,
+  "spd": 193.14,
+  "backfilled": true
+ },
+ {
+  "name": "GPT-4.1",
+  "date": "2025-04-14",
+  "ii": 19.6,
+  "spd": 115.56,
+  "backfilled": true
+ },
+ {
+  "name": "GPT-5 (high)",
+  "date": "2025-08-07",
+  "ii": 35.3,
+  "spd": 113.71,
+  "backfilled": true
+ },
+ {
+  "name": "GPT-4o (March 2025, chatgpt-4o-latest)",
+  "date": "2025-03-27",
+  "ii": 12.3,
+  "spd": 173.74,
+  "backfilled": true
+ },
+ {
+  "name": "GPT-4.5 (Preview)",
+  "date": "2025-02-27",
+  "ii": 13.6,
+  "spd": 67.92,
+  "backfilled": true
+ },
+ {
+  "name": "GPT-5 (medium)",
+  "date": "2025-08-07",
+  "ii": 34.6,
+  "spd": 166.11,
+  "backfilled": true
+ },
+ {
+  "name": "GPT-4.1 nano",
+  "date": "2025-04-14",
+  "ii": 9.6,
+  "spd": 140.14,
+  "backfilled": true
+ },
+ {
+  "name": "GPT-5 (low)",
+  "date": "2025-08-07",
+  "ii": 31.9,
+  "spd": 157.55,
+  "backfilled": true
+ },
+ {
+  "name": "o4-mini (high)",
+  "date": "2025-04-16",
+  "ii": 26.1,
+  "spd": 144.01,
+  "backfilled": true
+ },
+ {
+  "name": "GPT-4.1 mini",
+  "date": "2025-04-14",
+  "ii": 14.8,
+  "spd": 79.44,
+  "backfilled": true
+ },
+ {
+  "name": "GPT-4o (ChatGPT)",
+  "date": "2025-02-15",
+  "ii": 8.1,
+  "spd": 194.91,
+  "backfilled": true
+ },
+ {
+  "name": "GPT-5 mini (minimal)",
+  "date": "2025-08-07",
+  "ii": 14.3,
+  "spd": 76.58,
+  "backfilled": true
+ },
+ {
+  "name": "GPT-5 (minimal)",
+  "date": "2025-08-07",
+  "ii": 17.3,
+  "spd": 125.07,
+  "backfilled": true
+ },
+ {
+  "name": "GPT-5 (ChatGPT)",
+  "date": "2025-08-07",
+  "ii": 15.4,
+  "spd": 125.69,
+  "backfilled": true
+ },
+ {
+  "name": "GPT-5.1 Codex (high)",
+  "date": "2025-11-13",
+  "ii": 35.6,
+  "spd": 208.39999999999998,
+  "backfilled": true
+ },
+ {
+  "name": "o3-mini (high)",
+  "date": "2025-01-31",
+  "ii": 15.7,
+  "spd": 203.69,
+  "backfilled": true
+ },
+ {
+  "name": "GPT-5 mini (high)",
+  "date": "2025-08-07",
+  "ii": 25.8,
+  "spd": 77.75,
+  "backfilled": true
+ },
+ {
+  "name": "o3-mini",
+  "date": "2025-01-31",
+  "ii": 19.2,
+  "spd": 196.63,
+  "backfilled": true
+ },
+ {
+  "name": "GPT-5.2 (xhigh)",
+  "date": "2025-12-11",
+  "ii": 43.3,
+  "spd": 110.69,
+  "backfilled": true
+ },
+ {
+  "name": "GPT-5.1 (high)",
+  "date": "2025-11-13",
+  "ii": 37.5,
+  "spd": 142.855,
+  "backfilled": true
+ },
+ {
+  "name": "GPT-5 Codex (high)",
+  "date": "2025-09-23",
+  "ii": 37,
+  "spd": 153.88,
+  "backfilled": true
+ },
+ {
+  "name": "GPT-4",
+  "date": "2023-03-14",
+  "ii": 6.8,
+  "spd": 23.13,
+  "backfilled": true
+ },
+ {
+  "name": "GPT-5.2 (Non-reasoning)",
+  "date": "2025-12-11",
+  "ii": 26.5,
+  "spd": 68.05,
+  "backfilled": true
+ },
+ {
+  "name": "GPT-5 nano (medium)",
+  "date": "2025-08-07",
+  "ii": 19.2,
+  "spd": 162.85,
+  "backfilled": true
+ },
+ {
+  "name": "GPT-5 mini (medium)",
+  "date": "2025-08-07",
+  "ii": 31.6,
+  "spd": 73.81,
+  "backfilled": true
+ },
+ {
+  "name": "o3-pro",
+  "date": "2025-06-10",
+  "ii": 33.3,
+  "spd": 23.17,
+  "backfilled": true
+ },
+ {
+  "name": "GPT-5.1 (Non-reasoning)",
+  "date": "2025-11-13",
+  "ii": 20.7,
+  "spd": 117.10999999999999,
+  "backfilled": true
+ },
+ {
+  "name": "GPT-5 nano (high)",
+  "date": "2025-08-07",
+  "ii": 20.1,
+  "spd": 115.17,
+  "backfilled": true
+ },
+ {
+  "name": "GPT-5.1 Codex mini (high)",
+  "date": "2025-11-13",
+  "ii": 31.3,
+  "spd": 172.125,
+  "backfilled": true
+ },
+ {
+  "name": "Llama 3.1 Instruct 70B",
+  "date": "2024-07-23",
+  "ii": 6.5,
+  "spd": 52.72,
+  "backfilled": true
+ },
+ {
+  "name": "Llama 3.1 Instruct 8B",
+  "date": "2024-07-23",
+  "ii": 7.4,
+  "spd": 164.92,
+  "backfilled": true
+ },
+ {
+  "name": "Llama 3.2 Instruct 3B",
+  "date": "2024-09-25",
+  "ii": 3.9,
+  "spd": 199.82,
+  "backfilled": true
+ },
+ {
+  "name": "Llama 3 Instruct 70B",
+  "date": "2024-04-18",
+  "ii": 3.1,
+  "spd": 53.9,
+  "backfilled": true
+ },
+ {
+  "name": "Llama 3 Instruct 8B",
+  "date": "2024-04-18",
+  "ii": 1,
+  "spd": 114.0,
+  "backfilled": true
+ },
+ {
+  "name": "Llama 3.2 Instruct 1B",
+  "date": "2024-09-25",
+  "ii": 1,
+  "spd": 551.54,
+  "backfilled": true
+ },
+ {
+  "name": "Llama 2 Chat 7B",
+  "date": "2023-07-18",
+  "ii": 3.9,
+  "spd": 91.45,
+  "backfilled": true
+ },
+ {
+  "name": "Llama 2 Chat 70B",
+  "date": "2023-07-18",
+  "ii": 2.6,
+  "spd": 37.01,
+  "backfilled": true
+ },
+ {
+  "name": "Llama 2 Chat 13B",
+  "date": "2023-07-18",
+  "ii": 2.6,
+  "spd": 54.29,
+  "backfilled": true
+ },
+ {
+  "name": "Gemini 2.0 Pro Experimental (Feb '25)",
+  "date": "2025-02-05",
+  "ii": 11.8,
+  "spd": 125.36,
+  "backfilled": true
+ },
+ {
+  "name": "Gemini 2.0 Flash (experimental)",
+  "date": "2024-12-11",
+  "ii": 10.6,
+  "spd": 169.0,
+  "backfilled": true
+ },
+ {
+  "name": "Gemini 1.5 Pro (Sep '24)",
+  "date": "2024-09-24",
+  "ii": 9.9,
+  "spd": 60.16,
+  "backfilled": true
+ },
+ {
+  "name": "Gemini 2.0 Flash-Lite (Preview)",
+  "date": "2025-02-05",
+  "ii": 8.4,
+  "spd": 203.12,
+  "backfilled": true
+ },
+ {
+  "name": "Gemini 2.0 Flash (Feb '25)",
+  "date": "2025-02-05",
+  "ii": 12.2,
+  "spd": 233.69,
+  "backfilled": true
+ },
+ {
+  "name": "Gemini 1.5 Flash (Sep '24)",
+  "date": "2024-09-24",
+  "ii": 7.8,
+  "spd": 204.36,
+  "backfilled": true
+ },
+ {
+  "name": "Gemini 1.5 Flash-8B",
+  "date": "2024-10-03",
+  "ii": 5.2,
+  "spd": 282.83,
+  "backfilled": true
+ },
+ {
+  "name": "Gemini 2.5 Pro Preview (May' 25)",
+  "date": "2025-05-06",
+  "ii": 22.7,
+  "spd": 146.39,
+  "backfilled": true
+ },
+ {
+  "name": "Gemini 3 Flash Preview (Reasoning)",
+  "date": "2025-12-17",
+  "ii": 38.7,
+  "spd": 222.66,
+  "backfilled": true
+ },
+ {
+  "name": "Gemini 2.0 Flash-Lite (Feb '25)",
+  "date": "2025-02-25",
+  "ii": 8.6,
+  "spd": 203.72,
+  "backfilled": true
+ },
+ {
+  "name": "Gemini 1.5 Pro (May '24)",
+  "date": "2024-05-15",
+  "ii": 6.1,
+  "spd": 58.88,
+  "backfilled": true
+ },
+ {
+  "name": "Gemini 2.5 Flash-Lite (Non-reasoning)",
+  "date": "2025-06-17",
+  "ii": 6.7,
+  "spd": 398.48,
+  "backfilled": true
+ },
+ {
+  "name": "Gemini 2.5 Flash-Lite Preview (Sep '25) (Non-reasoning)",
+  "date": "2025-09-25",
+  "ii": 13.1,
+  "spd": 529.33,
+  "backfilled": true
+ },
+ {
+  "name": "Gemini 2.5 Flash (Reasoning)",
+  "date": "2025-05-20",
+  "ii": 20.3,
+  "spd": 297.07,
+  "backfilled": true
+ },
+ {
+  "name": "Gemini 2.5 Flash (Non-reasoning)",
+  "date": "2025-05-20",
+  "ii": 14.2,
+  "spd": 253.85,
+  "backfilled": true
+ },
+ {
+  "name": "Gemini 2.5 Flash Preview (Reasoning)",
+  "date": "2025-04-17",
+  "ii": 17.7,
+  "spd": 367.54,
+  "backfilled": true
+ },
+ {
+  "name": "Gemini 2.5 Pro Preview (Mar' 25)",
+  "date": "2025-03-25",
+  "ii": 23.4,
+  "spd": 156.62,
+  "backfilled": true
+ },
+ {
+  "name": "Gemini 2.5 Flash Preview (Non-reasoning)",
+  "date": "2025-04-17",
+  "ii": 11.6,
+  "spd": 294.41,
+  "backfilled": true
+ },
+ {
+  "name": "Gemini 2.5 Pro",
+  "date": "2025-06-05",
+  "ii": 25.9,
+  "spd": 146.42,
+  "backfilled": true
+ },
+ {
+  "name": "Gemma 3 27B Instruct",
+  "date": "2025-03-12",
+  "ii": 7.4,
+  "spd": 50.61,
+  "backfilled": true
+ },
+ {
+  "name": "Gemma 3 4B Instruct",
+  "date": "2025-03-12",
+  "ii": 1,
+  "spd": 96.85,
+  "backfilled": true
+ },
+ {
+  "name": "Gemma 3 12B Instruct",
+  "date": "2025-03-12",
+  "ii": 5.5,
+  "spd": 29.62,
+  "backfilled": true
+ },
+ {
+  "name": "Gemini 3 Flash Preview (Non-reasoning)",
+  "date": "2025-12-17",
+  "ii": 27.9,
+  "spd": 199.69,
+  "backfilled": true
+ },
+ {
+  "name": "Gemma 3n E4B Instruct",
+  "date": "2025-06-26",
+  "ii": 1,
+  "spd": 64.56,
+  "backfilled": true
+ },
+ {
+  "name": "Gemma 3 1B Instruct",
+  "date": "2025-03-13",
+  "ii": 1,
+  "spd": 45.35,
+  "backfilled": true
+ },
+ {
+  "name": "Gemma 3n E2B Instruct",
+  "date": "2025-06-26",
+  "ii": 1,
+  "spd": 51.73,
+  "backfilled": true
+ },
+ {
+  "name": "Gemini 2.5 Flash-Lite (Reasoning)",
+  "date": "2025-06-17",
+  "ii": 11.4,
+  "spd": 560.72,
+  "backfilled": true
+ },
+ {
+  "name": "Gemini 2.0 Flash Thinking Experimental (Dec '24)",
+  "date": "2024-12-19",
+  "ii": 6.4,
+  "spd": 244.34,
+  "backfilled": true
+ },
+ {
+  "name": "Gemini 3 Pro Preview (high)",
+  "date": "2025-11-18",
+  "ii": 40.6,
+  "spd": 119.78999999999999,
+  "backfilled": true
+ },
+ {
+  "name": "Gemini 2.5 Flash Preview (Sep '25) (Reasoning)",
+  "date": "2025-09-25",
+  "ii": 24.2,
+  "spd": 261.91,
+  "backfilled": true
+ },
+ {
+  "name": "Gemini 3 Pro Preview (low)",
+  "date": "2025-11-18",
+  "ii": 33.9,
+  "spd": 127.10499999999999,
+  "backfilled": true
+ },
+ {
+  "name": "Gemini 1.5 Flash (May '24)",
+  "date": "2024-05-14",
+  "ii": 4.6,
+  "spd": 155.95,
+  "backfilled": true
+ },
+ {
+  "name": "Gemini 1.0 Pro",
+  "date": "2023-12-06",
+  "ii": 2.7,
+  "spd": 87.01,
+  "backfilled": true
+ },
+ {
+  "name": "Gemini 2.5 Flash Preview (Sep '25) (Non-reasoning)",
+  "date": "2025-09-25",
+  "ii": 19.1,
+  "spd": 223.54,
+  "backfilled": true
+ },
+ {
+  "name": "Gemini 2.5 Flash-Lite Preview (Sep '25) (Reasoning)",
+  "date": "2025-09-08",
+  "ii": 15.2,
+  "spd": 735.24,
+  "backfilled": true
+ },
+ {
+  "name": "Gemini 2.0 Flash Thinking Experimental (Jan '25)",
+  "date": "2025-01-21",
+  "ii": 13.3,
+  "spd": 244.34,
+  "backfilled": true
+ },
+ {
+  "name": "Claude 3.5 Sonnet (Oct '24)",
+  "date": "2024-10-22",
+  "ii": 9.8,
+  "spd": 56.25,
+  "backfilled": true
+ },
+ {
+  "name": "Claude 3.5 Sonnet (June '24)",
+  "date": "2024-06-21",
+  "ii": 8.1,
+  "spd": 77.63,
+  "backfilled": true
+ },
+ {
+  "name": "Claude 3 Opus",
+  "date": "2024-03-04",
+  "ii": 11.8,
+  "spd": 27.76,
+  "backfilled": true
+ },
+ {
+  "name": "Claude 3.5 Haiku",
+  "date": "2024-10-22",
+  "ii": 12.2,
+  "spd": 65.23,
+  "backfilled": true
+ },
+ {
+  "name": "Claude 3 Sonnet",
+  "date": "2024-03-04",
+  "ii": 4.4,
+  "spd": 59.29,
+  "backfilled": true
+ },
+ {
+  "name": "Claude 3 Haiku",
+  "date": "2024-03-04",
+  "ii": 3.5,
+  "spd": 113.41,
+  "backfilled": true
+ },
+ {
+  "name": "Claude Instant",
+  "date": "2023-03-14",
+  "ii": 1.7,
+  "spd": 86.22,
+  "backfilled": true
+ },
+ {
+  "name": "Claude 2.1",
+  "date": "2023-11-21",
+  "ii": 3.5,
+  "spd": 25.85,
+  "backfilled": true
+ },
+ {
+  "name": "Claude 4 Sonnet (Reasoning)",
+  "date": "2025-05-22",
+  "ii": 29.8,
+  "spd": 57.49,
+  "backfilled": true
+ },
+ {
+  "name": "Claude Opus 4.5 (Non-reasoning)",
+  "date": "2025-11-24",
+  "ii": 35.6,
+  "spd": 74.94,
+  "backfilled": true
+ },
+ {
+  "name": "Claude 4 Opus (Reasoning)",
+  "date": "2025-05-22",
+  "ii": 31.7,
+  "spd": 60.89,
+  "backfilled": true
+ },
+ {
+  "name": "Claude 4.5 Sonnet (Non-reasoning)",
+  "date": "2025-09-29",
+  "ii": 29.9,
+  "spd": 70.78,
+  "backfilled": true
+ },
+ {
+  "name": "Claude 4 Opus (Non-reasoning)",
+  "date": "2025-05-22",
+  "ii": 26,
+  "spd": 60.89,
+  "backfilled": true
+ },
+ {
+  "name": "Claude 4.1 Opus (Non-reasoning)",
+  "date": "2025-08-05",
+  "ii": 28.8,
+  "spd": 38.3,
+  "backfilled": true
+ },
+ {
+  "name": "Claude Opus 4.5 (Reasoning)",
+  "date": "2025-11-24",
+  "ii": 41.9,
+  "spd": 61.44499999999999,
+  "backfilled": true
+ },
+ {
+  "name": "Claude 3.7 Sonnet (Non-reasoning)",
+  "date": "2025-02-24",
+  "ii": 23.9,
+  "spd": 77.36,
+  "backfilled": true
+ },
+ {
+  "name": "Claude 3.7 Sonnet (Reasoning)",
+  "date": "2025-02-24",
+  "ii": 27.6,
+  "spd": 77.36,
+  "backfilled": true
+ },
+ {
+  "name": "Claude 4.5 Sonnet (Reasoning)",
+  "date": "2025-09-29",
+  "ii": 37.4,
+  "spd": 61.45,
+  "backfilled": true
+ },
+ {
+  "name": "Claude 4.1 Opus (Reasoning)",
+  "date": "2025-08-05",
+  "ii": 34.5,
+  "spd": 44.58,
+  "backfilled": true
+ },
+ {
+  "name": "Claude 4 Sonnet (Non-reasoning)",
+  "date": "2025-05-22",
+  "ii": 26,
+  "spd": 57.49,
+  "backfilled": true
+ },
+ {
+  "name": "Claude 2.0",
+  "date": "2023-07-11",
+  "ii": 3.3,
+  "spd": 27.34,
+  "backfilled": true
+ },
+ {
+  "name": "Mistral Large 2 (Nov '24)",
+  "date": "2024-11-18",
+  "ii": 9,
+  "spd": 44.33,
+  "backfilled": true
+ },
+ {
+  "name": "Mistral Large 2 (Jul '24)",
+  "date": "2024-07-24",
+  "ii": 7,
+  "spd": 35.99,
+  "backfilled": true
+ },
+ {
+  "name": "Pixtral Large",
+  "date": "2024-11-18",
+  "ii": 8,
+  "spd": 37.31,
+  "backfilled": true
+ },
+ {
+  "name": "Mistral Small 3",
+  "date": "2025-01-30",
+  "ii": 6.7,
+  "spd": 124.9,
+  "backfilled": true
+ },
+ {
+  "name": "Mistral Small (Sep '24)",
+  "date": "2024-09-17",
+  "ii": 4.3,
+  "spd": 71.26,
+  "backfilled": true
+ },
+ {
+  "name": "Mixtral 8x22B Instruct",
+  "date": "2024-04-17",
+  "ii": 4,
+  "spd": 62.34,
+  "backfilled": true
+ },
+ {
+  "name": "Mistral Small (Feb '24)",
+  "date": "2024-02-26",
+  "ii": 3.2,
+  "spd": 78.97,
+  "backfilled": true
+ },
+ {
+  "name": "Mistral Large (Feb '24)",
+  "date": "2024-02-26",
+  "ii": 4.1,
+  "spd": 33.75,
+  "backfilled": true
+ },
+ {
+  "name": "Mixtral 8x7B Instruct",
+  "date": "2023-12-11",
+  "ii": 2,
+  "spd": 90.31,
+  "backfilled": true
+ },
+ {
+  "name": "Mistral 7B Instruct",
+  "date": "2023-09-27",
+  "ii": 1.7,
+  "spd": 78.82,
+  "backfilled": true
+ },
+ {
+  "name": "Devstral Medium",
+  "date": "2025-07-10",
+  "ii": 12.4,
+  "spd": 104.39,
+  "backfilled": true
+ },
+ {
+  "name": "Devstral Small (Jul '25)",
+  "date": "2025-07-10",
+  "ii": 9.1,
+  "spd": 159.16,
+  "backfilled": true
+ },
+ {
+  "name": "Mistral Small 3.1",
+  "date": "2025-03-17",
+  "ii": 14.9,
+  "spd": 123.3,
+  "backfilled": true
+ },
+ {
+  "name": "Mistral Medium",
+  "date": "2023-12-11",
+  "ii": 3.2,
+  "spd": 18.44,
+  "backfilled": true
+ },
+ {
+  "name": "Mistral Saba",
+  "date": "2025-02-17",
+  "ii": 6.2,
+  "spd": 96.98,
+  "backfilled": true
+ },
+ {
+  "name": "Mistral Small 3.2",
+  "date": "2025-06-20",
+  "ii": 10.7,
+  "spd": 170.93,
+  "backfilled": true
+ },
+ {
+  "name": "Magistral Small 1",
+  "date": "2025-06-10",
+  "ii": 10.6,
+  "spd": 211.3,
+  "backfilled": true
+ },
+ {
+  "name": "Mistral Medium 3",
+  "date": "2025-05-07",
+  "ii": 12.5,
+  "spd": 88.41,
+  "backfilled": true
+ },
+ {
+  "name": "Mistral Medium 3.1",
+  "date": "2025-08-12",
+  "ii": 14.7,
+  "spd": 82.44,
+  "backfilled": true
+ },
+ {
+  "name": "Magistral Medium 1",
+  "date": "2025-06-10",
+  "ii": 12.5,
+  "spd": 137.3,
+  "backfilled": true
+ },
+ {
+  "name": "Devstral Small (May '25)",
+  "date": "2025-05-21",
+  "ii": 11.8,
+  "spd": 120.02,
+  "backfilled": true
+ },
+ {
+  "name": "DeepSeek R1 Distill Llama 70B",
+  "date": "2025-01-20",
+  "ii": 9.8,
+  "spd": 123.37,
+  "backfilled": true
+ },
+ {
+  "name": "DeepSeek R1 Distill Qwen 32B",
+  "date": "2025-01-20",
+  "ii": 11,
+  "spd": 41.94,
+  "backfilled": true
+ },
+ {
+  "name": "DeepSeek V3 (Dec '24)",
+  "date": "2024-12-26",
+  "ii": 14.2,
+  "spd": 26.53,
+  "backfilled": true
+ },
+ {
+  "name": "DeepSeek R1 Distill Qwen 14B",
+  "date": "2025-01-20",
+  "ii": 9.7,
+  "spd": 107.2,
+  "backfilled": true
+ },
+ {
+  "name": "DeepSeek-V2.5 (Dec '24)",
+  "date": "2024-12-10",
+  "ii": 6.5,
+  "spd": 39.185,
+  "backfilled": true
+ },
+ {
+  "name": "DeepSeek-Coder-V2",
+  "date": "2024-06-17",
+  "ii": 4.7,
+  "spd": 18.46,
+  "backfilled": true
+ },
+ {
+  "name": "DeepSeek R1 Distill Llama 8B",
+  "date": "2025-01-20",
+  "ii": 6.2,
+  "spd": 53.33,
+  "backfilled": true
+ },
+ {
+  "name": "DeepSeek LLM 67B Chat (V1)",
+  "date": "2023-11-29",
+  "ii": 2.6,
+  "spd": 28.26,
+  "backfilled": true
+ },
+ {
+  "name": "DeepSeek R1 Distill Qwen 1.5B",
+  "date": "2025-01-20",
+  "ii": 3.3,
+  "spd": 385.37,
+  "backfilled": true
+ },
+ {
+  "name": "DeepSeek R1 0528 (May '25)",
+  "date": "2025-05-28",
+  "ii": 20.4,
+  "spd": 27.11,
+  "backfilled": true
+ },
+ {
+  "name": "DeepSeek V3.2 Exp (Non-reasoning)",
+  "date": "2025-09-29",
+  "ii": 21.7,
+  "spd": 27.26,
+  "backfilled": true
+ },
+ {
+  "name": "DeepSeek R1 (Jan '25)",
+  "date": "2025-01-20",
+  "ii": 18.6,
+  "spd": 22.54,
+  "backfilled": true
+ },
+ {
+  "name": "DeepSeek V3.2 (Non-reasoning)",
+  "date": "2025-12-01",
+  "ii": 25.1,
+  "spd": 28.08,
+  "backfilled": true
+ },
+ {
+  "name": "DeepSeek V3 0324",
+  "date": "2025-03-25",
+  "ii": 15.2,
+  "spd": 25.89,
+  "backfilled": true
+ },
+ {
+  "name": "DeepSeek V3.2 (Reasoning)",
+  "date": "2025-12-01",
+  "ii": 32.8,
+  "spd": 29.240000000000002,
+  "backfilled": true
+ },
+ {
+  "name": "DeepSeek V3.1 (Non-reasoning)",
+  "date": "2025-08-21",
+  "ii": 21.4,
+  "spd": 19.18,
+  "backfilled": true
+ },
+ {
+  "name": "DeepSeek V3.1 (Reasoning)",
+  "date": "2025-08-21",
+  "ii": 21,
+  "spd": 19.41,
+  "backfilled": true
+ },
+ {
+  "name": "DeepSeek Coder V2 Lite Instruct",
+  "date": "2024-06-17",
+  "ii": 2.7,
+  "spd": 111.95,
+  "backfilled": true
+ },
+ {
+  "name": "DeepSeek-V2.5",
+  "date": "2024-09-06",
+  "ii": 6.4,
+  "spd": 14.02,
+  "backfilled": true
+ },
+ {
+  "name": "DeepSeek R1 0528 Qwen3 8B",
+  "date": "2025-05-29",
+  "ii": 10.3,
+  "spd": 92.07,
+  "backfilled": true
+ },
+ {
+  "name": "DeepSeek V3.2 Speciale",
+  "date": "2025-12-01",
+  "ii": 22.6,
+  "spd": 50.76,
+  "backfilled": true
+ },
+ {
+  "name": "DeepSeek V3.2 Exp (Reasoning)",
+  "date": "2025-09-29",
+  "ii": 25.9,
+  "spd": 27.31,
+  "backfilled": true
+ },
+ {
+  "name": "DeepSeek-V2-Chat",
+  "date": "2024-05-06",
+  "ii": 3.3,
+  "spd": 16.94,
+  "backfilled": true
+ },
+ {
+  "name": "Sonar Pro",
+  "date": "2025-01-21",
+  "ii": 9.1,
+  "spd": 96.34,
+  "backfilled": true
+ },
+ {
+  "name": "Sonar Reasoning",
+  "date": "2025-01-28",
+  "ii": 11.6,
+  "spd": 83.37,
+  "backfilled": true
+ },
+ {
+  "name": "Sonar",
+  "date": "2025-01-21",
+  "ii": 9.4,
+  "spd": 129.41,
+  "backfilled": true
+ },
+ {
+  "name": "Grok Beta",
+  "date": "2024-08-13",
+  "ii": 7.3,
+  "spd": 63.31,
+  "backfilled": true
+ },
+ {
+  "name": "Grok 3 mini Reasoning (high)",
+  "date": "2025-02-19",
+  "ii": 22.9,
+  "spd": 170.83,
+  "backfilled": true
+ },
+ {
+  "name": "Grok Code Fast 1",
+  "date": "2025-08-28",
+  "ii": 22,
+  "spd": 270.74,
+  "backfilled": true
+ },
+ {
+  "name": "Grok 4",
+  "date": "2025-07-10",
+  "ii": 34.1,
+  "spd": 45.46,
+  "backfilled": true
+ },
+ {
+  "name": "Grok 4 Fast (Reasoning)",
+  "date": "2025-09-19",
+  "ii": 27.9,
+  "spd": 210.84,
+  "backfilled": true
+ },
+ {
+  "name": "Grok 4.1 Fast (Non-reasoning)",
+  "date": "2025-11-19",
+  "ii": 17,
+  "spd": 130.475,
+  "backfilled": true
+ },
+ {
+  "name": "Grok 4 Fast (Non-reasoning)",
+  "date": "2025-09-19",
+  "ii": 16.6,
+  "spd": 186.2,
+  "backfilled": true
+ },
+ {
+  "name": "Grok 2 (Dec '24)",
+  "date": "2024-12-12",
+  "ii": 7.8,
+  "spd": 88.405,
+  "backfilled": true
+ },
+ {
+  "name": "Grok 3",
+  "date": "2025-02-19",
+  "ii": 18.6,
+  "spd": 90.29,
+  "backfilled": true
+ },
+ {
+  "name": "Grok 4.1 Fast (Reasoning)",
+  "date": "2025-11-19",
+  "ii": 31.3,
+  "spd": 110.82,
+  "backfilled": true
+ },
+ {
+  "name": "OpenChat 3.5 (1210)",
+  "date": "2023-12-18",
+  "ii": 2.6,
+  "spd": 82.14,
+  "backfilled": true
+ },
+ {
+  "name": "Nova Pro",
+  "date": "2024-12-03",
+  "ii": 7.5,
+  "spd": 92.64,
+  "backfilled": true
+ },
+ {
+  "name": "Nova Lite",
+  "date": "2024-12-03",
+  "ii": 6.7,
+  "spd": 147.95,
+  "backfilled": true
+ },
+ {
+  "name": "Phi-3 Mini Instruct 3.8B",
+  "date": "2024-04-23",
+  "ii": 4.3,
+  "spd": 68.81,
+  "backfilled": true
+ },
+ {
+  "name": "LFM 40B",
+  "date": "2024-09-30",
+  "ii": 3,
+  "spd": 165.08,
+  "backfilled": true
+ },
+ {
+  "name": "Solar Mini",
+  "date": "2024-01-25",
+  "ii": 6,
+  "spd": 85.1,
+  "backfilled": true
+ },
+ {
+  "name": "Solar Pro 2 (Preview) (Reasoning)",
+  "date": "2025-05-20",
+  "ii": 12.5,
+  "spd": 102.55,
+  "backfilled": true
+ },
+ {
+  "name": "Solar Pro 2 (Reasoning)",
+  "date": "2025-07-09",
+  "ii": 8.8,
+  "spd": 106.77,
+  "backfilled": true
+ },
+ {
+  "name": "Solar Pro 2 (Non-reasoning)",
+  "date": "2025-07-09",
+  "ii": 7.6,
+  "spd": 108.84,
+  "backfilled": true
+ },
+ {
+  "name": "Solar Pro 2 (Preview) (Non-reasoning)",
+  "date": "2025-05-20",
+  "ii": 9.9,
+  "spd": 102.55,
+  "backfilled": true
+ },
+ {
+  "name": "DBRX Instruct",
+  "date": "2024-03-27",
+  "ii": 2.6,
+  "spd": 70.62,
+  "backfilled": true
+ },
+ {
+  "name": "MiniMax M1 40k",
+  "date": "2025-06-17",
+  "ii": 14.5,
+  "spd": 30.47,
+  "backfilled": true
+ },
+ {
+  "name": "MiniMax-M2",
+  "date": "2025-10-26",
+  "ii": 28.9,
+  "spd": 80.04,
+  "backfilled": true
+ },
+ {
+  "name": "MiniMax-M2.1",
+  "date": "2025-12-23",
+  "ii": 32.1,
+  "spd": 84.4,
+  "backfilled": true
+ },
+ {
+  "name": "MiniMax M1 80k",
+  "date": "2025-06-17",
+  "ii": 17.9,
+  "spd": 24.92,
+  "backfilled": true
+ },
+ {
+  "name": "Kimi K2",
+  "date": "2025-07-11",
+  "ii": 19.7,
+  "spd": 51.95,
+  "backfilled": true
+ },
+ {
+  "name": "Kimi K2 0905",
+  "date": "2025-09-05",
+  "ii": 24,
+  "spd": 82.75,
+  "backfilled": true
+ },
+ {
+  "name": "Kimi K2 Thinking",
+  "date": "2025-11-06",
+  "ii": 33.5,
+  "spd": 86.42500000000001,
+  "backfilled": true
+ },
+ {
+  "name": "Llama 3.1 Tulu3 405B",
+  "date": "2025-01-30",
+  "ii": 8.1,
+  "spd": 172.36,
+  "backfilled": true
+ },
+ {
+  "name": "Olmo 3 32B Think",
+  "date": "2025-11-20",
+  "ii": 6.1,
+  "spd": 43.56,
+  "backfilled": true
+ },
+ {
+  "name": "Granite 3.3 8B (Non-reasoning)",
+  "date": "2025-04-16",
+  "ii": 1.3,
+  "spd": 416.47,
+  "backfilled": true
+ },
+ {
+  "name": "Reka Flash (Sep '24)",
+  "date": "2024-10-04",
+  "ii": 6,
+  "spd": 32.82,
+  "backfilled": true
+ },
+ {
+  "name": "Hermes 3 - Llama-3.1 70B",
+  "date": "2024-08-15",
+  "ii": 4.8,
+  "spd": 22.59,
+  "backfilled": true
+ },
+ {
+  "name": "MiMo-V2-Flash (Reasoning)",
+  "date": "2025-12-16",
+  "ii": 31.9,
+  "spd": 149.46,
+  "backfilled": true
+ },
+ {
+  "name": "KAT-Coder-Pro V1",
+  "date": "2025-11-11",
+  "ii": 28.9,
+  "spd": 60.964999999999996,
+  "backfilled": true
+ },
+ {
+  "name": "GLM-4.6 (Non-reasoning)",
+  "date": "2025-09-30",
+  "ii": 23.4,
+  "spd": 37.37,
+  "backfilled": true
+ },
+ {
+  "name": "GLM-4.7 (Reasoning)",
+  "date": "2025-12-22",
+  "ii": 34.5,
+  "spd": 83.82,
+  "backfilled": true
+ },
+ {
+  "name": "GLM-4.5 (Reasoning)",
+  "date": "2025-07-28",
+  "ii": 19.7,
+  "spd": 64.76,
+  "backfilled": true
+ },
+ {
+  "name": "GLM-4.7 (Non-reasoning)",
+  "date": "2025-12-22",
+  "ii": 27.1,
+  "spd": 75.59,
+  "backfilled": true
+ },
+ {
+  "name": "GLM-4.5V (Non-reasoning)",
+  "date": "2025-08-11",
+  "ii": 6.8,
+  "spd": 74.5,
+  "backfilled": true
+ },
+ {
+  "name": "GLM-4.5-Air",
+  "date": "2025-07-28",
+  "ii": 16.7,
+  "spd": 160.71,
+  "backfilled": true
+ },
+ {
+  "name": "GLM-4.6 (Reasoning)",
+  "date": "2025-09-30",
+  "ii": 29.3,
+  "spd": 132.46,
+  "backfilled": true
+ },
+ {
+  "name": "GLM-4.6V (Non-reasoning)",
+  "date": "2025-12-08",
+  "ii": 10.9,
+  "spd": 55.7,
+  "backfilled": true
+ },
+ {
+  "name": "GLM-4.6V (Reasoning)",
+  "date": "2025-12-08",
+  "ii": 16.9,
+  "spd": 96.33,
+  "backfilled": true
+ },
+ {
+  "name": "GLM-4.5V (Reasoning)",
+  "date": "2025-08-11",
+  "ii": 9,
+  "spd": 84.94,
+  "backfilled": true
+ },
+ {
+  "name": "Command-R+ (Apr '24)",
+  "date": "2024-04-04",
+  "ii": 2.6,
+  "spd": 58.28,
+  "backfilled": true
+ },
+ {
+  "name": "Command-R (Mar '24)",
+  "date": "2024-03-12",
+  "ii": 1.7,
+  "spd": 105.88,
+  "backfilled": true
+ },
+ {
+  "name": "Apriel-v1.5-15B-Thinker",
+  "date": "2025-09-30",
+  "ii": 21.6,
+  "spd": 145.305,
+  "backfilled": true
+ },
+ {
+  "name": "Jamba 1.6 Mini",
+  "date": "2025-03-06",
+  "ii": 2.1,
+  "spd": 199.11,
+  "backfilled": true
+ },
+ {
+  "name": "Jamba 1.6 Large",
+  "date": "2025-03-06",
+  "ii": 4.7,
+  "spd": 59.9,
+  "backfilled": true
+ },
+ {
+  "name": "Jamba 1.5 Large",
+  "date": "2024-08-22",
+  "ii": 4.8,
+  "spd": 54.28,
+  "backfilled": true
+ },
+ {
+  "name": "Jamba 1.5 Mini",
+  "date": "2024-08-22",
+  "ii": 2.3,
+  "spd": 159.18,
+  "backfilled": true
+ },
+ {
+  "name": "Arctic Instruct",
+  "date": "2024-04-24",
+  "ii": 3,
+  "spd": 72.87,
+  "backfilled": true
+ },
+ {
+  "name": "Qwen2.5 Max",
+  "date": "2025-01-28",
+  "ii": 10.1,
+  "spd": 36.09,
+  "backfilled": true
+ },
+ {
+  "name": "Qwen2.5 Instruct 72B",
+  "date": "2024-09-19",
+  "ii": 9.4,
+  "spd": 40.89,
+  "backfilled": true
+ },
+ {
+  "name": "Qwen2.5 Coder Instruct 32B",
+  "date": "2024-11-11",
+  "ii": 6.9,
+  "spd": 82.72,
+  "backfilled": true
+ },
+ {
+  "name": "Qwen2.5 Turbo",
+  "date": "2024-11-18",
+  "ii": 6,
+  "spd": 88.75,
+  "backfilled": true
+ },
+ {
+  "name": "Qwen2 Instruct 72B",
+  "date": "2024-06-07",
+  "ii": 5.7,
+  "spd": 44.68,
+  "backfilled": true
+ },
+ {
+  "name": "Qwen3 235B A22B (Non-reasoning)",
+  "date": "2025-04-28",
+  "ii": 10.8,
+  "spd": 48.36,
+  "backfilled": true
+ },
+ {
+  "name": "Qwen3 30B A3B 2507 Instruct",
+  "date": "2025-07-29",
+  "ii": 8.9,
+  "spd": 85.57,
+  "backfilled": true
+ },
+ {
+  "name": "Qwen3 Max (Preview)",
+  "date": "2025-09-05",
+  "ii": 19.4,
+  "spd": 44.06,
+  "backfilled": true
+ },
+ {
+  "name": "Qwen3 235B A22B 2507 Instruct",
+  "date": "2025-07-21",
+  "ii": 18.4,
+  "spd": 48.26,
+  "backfilled": true
+ },
+ {
+  "name": "Qwen3 30B A3B 2507 (Reasoning)",
+  "date": "2025-07-30",
+  "ii": 14.6,
+  "spd": 99.28,
+  "backfilled": true
+ },
+ {
+  "name": "Qwen3 VL 30B A3B Instruct",
+  "date": "2025-10-03",
+  "ii": 9.9,
+  "spd": 96.22,
+  "backfilled": true
+ },
+ {
+  "name": "Qwen3 235B A22B 2507 (Reasoning)",
+  "date": "2025-07-25",
+  "ii": 19.9,
+  "spd": 80.12,
+  "backfilled": true
+ },
+ {
+  "name": "Qwen3 1.7B (Reasoning)",
+  "date": "2025-04-28",
+  "ii": 2.2,
+  "spd": 137.85,
+  "backfilled": true
+ },
+ {
+  "name": "Qwen3 0.6B (Reasoning)",
+  "date": "2025-04-28",
+  "ii": 1,
+  "spd": 228.38,
+  "backfilled": true
+ },
+ {
+  "name": "Qwen3 235B A22B (Reasoning)",
+  "date": "2025-04-28",
+  "ii": 13.5,
+  "spd": 46.21,
+  "backfilled": true
+ },
+ {
+  "name": "QwQ 32B-Preview",
+  "date": "2024-11-27",
+  "ii": 9.1,
+  "spd": 65.38,
+  "backfilled": true
+ },
+ {
+  "name": "Qwen3 14B (Reasoning)",
+  "date": "2025-04-28",
+  "ii": 10.4,
+  "spd": 65.6,
+  "backfilled": true
+ },
+ {
+  "name": "Qwen3 32B (Reasoning)",
+  "date": "2025-04-28",
+  "ii": 11.4,
+  "spd": 61.57,
+  "backfilled": true
+ },
+ {
+  "name": "Qwen3 Coder 480B A35B Instruct",
+  "date": "2025-07-22",
+  "ii": 18.2,
+  "spd": 41.75,
+  "backfilled": true
+ },
+ {
+  "name": "Qwen3 30B A3B (Reasoning)",
+  "date": "2025-04-28",
+  "ii": 9.2,
+  "spd": 92.34,
+  "backfilled": true
+ },
+ {
+  "name": "Qwen3 VL 8B Instruct",
+  "date": "2025-10-14",
+  "ii": 8.2,
+  "spd": 113.07,
+  "backfilled": true
+ },
+ {
+  "name": "Qwen3 32B (Non-reasoning)",
+  "date": "2025-04-28",
+  "ii": 8.5,
+  "spd": 62.46,
+  "backfilled": true
+ },
+ {
+  "name": "Qwen3 8B (Reasoning)",
+  "date": "2025-04-28",
+  "ii": 8.3,
+  "spd": 98.91,
+  "backfilled": true
+ },
+ {
+  "name": "Qwen3 Coder 30B A3B Instruct",
+  "date": "2025-07-31",
+  "ii": 13.6,
+  "spd": 91.6,
+  "backfilled": true
+ },
+ {
+  "name": "Qwen3 VL 235B A22B Instruct",
+  "date": "2025-09-23",
+  "ii": 14.4,
+  "spd": 35.085,
+  "backfilled": true
+ },
+ {
+  "name": "Qwen3 VL 30B A3B (Reasoning)",
+  "date": "2025-10-03",
+  "ii": 13.4,
+  "spd": 105.05,
+  "backfilled": true
+ },
+ {
+  "name": "Qwen3 VL 32B (Reasoning)",
+  "date": "2025-10-21",
+  "ii": 18.1,
+  "spd": 51.95,
+  "backfilled": true
+ },
+ {
+  "name": "QwQ 32B",
+  "date": "2025-03-05",
+  "ii": 13.4,
+  "spd": 94.76,
+  "backfilled": true
+ },
+ {
+  "name": "Qwen3 VL 8B (Reasoning)",
+  "date": "2025-10-14",
+  "ii": 10.5,
+  "spd": 63.44,
+  "backfilled": true
+ },
+ {
+  "name": "Qwen3 14B (Non-reasoning)",
+  "date": "2025-04-28",
+  "ii": 6.8,
+  "spd": 66.42,
+  "backfilled": true
+ },
+ {
+  "name": "Qwen3 VL 235B A22B (Reasoning)",
+  "date": "2025-09-23",
+  "ii": 20.9,
+  "spd": 43.084999999999994,
+  "backfilled": true
+ },
+ {
+  "name": "Qwen3 8B (Non-reasoning)",
+  "date": "2025-04-28",
+  "ii": 4.8,
+  "spd": 100.08,
+  "backfilled": true
+ },
+ {
+  "name": "Qwen3 VL 32B Instruct",
+  "date": "2025-10-21",
+  "ii": 11,
+  "spd": 47.22,
+  "backfilled": true
+ },
+ {
+  "name": "Qwen1.5 Chat 110B",
+  "date": "2024-04-25",
+  "ii": 3.7,
+  "spd": 23.75,
+  "backfilled": true
+ },
+ {
+  "name": "Qwen2.5 Instruct 32B",
+  "date": "2024-09-19",
+  "ii": 7.2,
+  "spd": 62.15,
+  "backfilled": true
+ },
+ {
+  "name": "Qwen3 30B A3B (Non-reasoning)",
+  "date": "2025-04-28",
+  "ii": 6.6,
+  "spd": 92.41,
+  "backfilled": true
+ },
+ {
+  "name": "Qwen3 Max Thinking (Preview)",
+  "date": "2025-11-03",
+  "ii": 25.5,
+  "spd": 35.925,
+  "backfilled": true
+ },
+ {
+  "name": "Qwen3 4B (Reasoning)",
+  "date": "2025-04-28",
+  "ii": 8.2,
+  "spd": 104.84,
+  "backfilled": true
+ },
+ {
+  "name": "Qwen3 1.7B (Non-reasoning)",
+  "date": "2025-04-28",
+  "ii": 1.1,
+  "spd": 141.03,
+  "backfilled": true
+ },
+ {
+  "name": "Qwen3 0.6B (Non-reasoning)",
+  "date": "2025-04-28",
+  "ii": 1,
+  "spd": 232.03,
+  "backfilled": true
+ },
+ {
+  "name": "Qwen3 4B (Non-reasoning)",
+  "date": "2025-04-28",
+  "ii": 6.5,
+  "spd": 106.28,
+  "backfilled": true
+ },
+ {
+  "name": "Qwen3 VL 4B (Reasoning)",
+  "date": "2025-10-14",
+  "ii": 7.7,
+  "spd": 153.01,
+  "backfilled": true
+ },
+ {
+  "name": "Qwen3 Max",
+  "date": "2025-09-23",
+  "ii": 24.5,
+  "spd": 29.09,
+  "backfilled": true
+ },
+ {
+  "name": "Qwen3 VL 4B Instruct",
+  "date": "2025-10-14",
+  "ii": 3.7,
+  "spd": 139.3,
+  "backfilled": true
+ },
+ {
+  "name": "Qwen2.5 Coder Instruct 7B ",
+  "date": "2024-09-19",
+  "ii": 4.1,
+  "spd": 201.19,
+  "backfilled": true
+ },
+ {
+  "name": "Ling-1T",
+  "date": "2025-10-08",
+  "ii": 12.7,
+  "spd": 13.82,
+  "backfilled": true
+ },
+ {
+  "name": "Ling-flash-2.0",
+  "date": "2025-09-17",
+  "ii": 9.6,
+  "spd": 54.864999999999995,
+  "backfilled": true
+ },
+ {
+  "name": "Ling-mini-2.0",
+  "date": "2025-09-09",
+  "ii": 3.4,
+  "spd": 158.34,
+  "backfilled": true
+ },
+ {
+  "name": "Seed-OSS-36B-Instruct",
+  "date": "2025-08-20",
+  "ii": 18.5,
+  "spd": 29.33,
+  "backfilled": true
+ }
+]
